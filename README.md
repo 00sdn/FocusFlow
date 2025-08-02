@@ -1,6 +1,8 @@
 # FocusFlow 🧠✨  
 A simple, no-login, browser-based day planner to help you organize your day, set tasks with time ranges, get helpful reminders, and stay productive – all without any account or setup.
 
+![FocusFlow Screenshot](TM.png)
+
 ## 🔥 Features
 - ✅ Add tasks with start & end times
 - 🕐 Real-time alerts before tasks start
